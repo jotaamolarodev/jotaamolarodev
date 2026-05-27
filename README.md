@@ -41,6 +41,6 @@ Quando não estou codando em um ambiente silencioso e focado, gosto de ler bons 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jotaamolarodev&show_icons=true&theme=radical&v=1" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotaamolarodev&layout=compact&theme=radical&v=1" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotaamolarodev&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jotaamolarodev&theme=radical" alt="Linguagens mais usadas" />
 </p>
